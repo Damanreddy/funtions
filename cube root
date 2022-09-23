@@ -1,0 +1,4 @@
+n=int(input())
+def fun():
+	print(n*n*n)
+fun()
